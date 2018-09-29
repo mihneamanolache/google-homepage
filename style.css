@@ -22,6 +22,7 @@ input[type=text] {
     height: 40px;
     font-size: 20px;
     padding-left: 10px;
+    -moz-window-shadow: black;
 }
 
 button[type=button]{
@@ -140,4 +141,7 @@ a:any-link {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: black;
+}
+.tarisoara {
+    padding-left: 20px;
 }
